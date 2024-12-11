@@ -17,7 +17,7 @@
 
 .qr-component{
     background-color: white;
-    border-radius: 10px;
+    border-radius: 20px;
     width: min-content;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .qr-info{
-    padding: 15px 20px 15px 20px;
+    padding: 15px ;
     font-weight: 100;
 }
 
@@ -44,4 +44,5 @@
     margin-top: 2vh;
     color: #68778D;
     text-align: center;
+    padding: 0px 15px 0px 15px;
 }
